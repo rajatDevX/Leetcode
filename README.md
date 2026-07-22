@@ -15,6 +15,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/rajatDevX/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -22,6 +23,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/rajatDevX/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Stack
 |  |
