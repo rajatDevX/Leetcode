@@ -84,6 +84,7 @@
 | [0207-course-schedule](https://github.com/rajatDevX/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rajatDevX/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/rajatDevX/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rajatDevX/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
+| [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Graph Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
 |  |
 | ------- |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajatDevX/Leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
