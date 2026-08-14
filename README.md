@@ -77,6 +77,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajatDevX/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajatDevX/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/rajatDevX/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -110,6 +111,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Graph Theory
@@ -122,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
@@ -148,5 +151,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
