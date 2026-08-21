@@ -95,6 +95,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Union-Find
@@ -108,6 +109,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
@@ -160,4 +163,9 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
