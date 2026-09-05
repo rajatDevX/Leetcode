@@ -42,6 +42,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/rajatDevX/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
@@ -109,6 +111,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajatDevX/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
@@ -176,6 +180,7 @@
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/rajatDevX/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/rajatDevX/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
