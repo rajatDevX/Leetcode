@@ -194,4 +194,21 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
