@@ -4,6 +4,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajatDevX/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/rajatDevX/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -98,6 +99,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajatDevX/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajatDevX/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
