@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -231,4 +234,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajatDevX/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
