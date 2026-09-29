@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/rajatDevX/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/rajatDevX/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/rajatDevX/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -220,6 +221,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rajatDevX/Leetcode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/rajatDevX/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
