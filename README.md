@@ -117,6 +117,7 @@
 | [0035-search-insert-position](https://github.com/rajatDevX/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajatDevX/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajatDevX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
