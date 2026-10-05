@@ -133,6 +133,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
+| [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
@@ -247,6 +248,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajatDevX/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -287,4 +290,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
