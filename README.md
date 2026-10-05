@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
@@ -282,6 +284,7 @@
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajatDevX/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 ## Newton's Method
 |  |
 | ------- |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
