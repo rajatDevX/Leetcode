@@ -290,6 +290,7 @@
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajatDevX/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/rajatDevX/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 ## Newton's Method
 |  |
