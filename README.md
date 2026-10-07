@@ -128,6 +128,7 @@
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rajatDevX/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajatDevX/Leetcode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajatDevX/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
@@ -161,6 +162,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajatDevX/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Graph Theory
@@ -291,6 +293,7 @@
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajatDevX/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/rajatDevX/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 ## Newton's Method
@@ -314,4 +317,16 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
