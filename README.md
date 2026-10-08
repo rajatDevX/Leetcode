@@ -56,6 +56,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rajatDevX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/rajatDevX/Leetcode/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@
 | [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rajatDevX/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/rajatDevX/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
