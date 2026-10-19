@@ -125,6 +125,7 @@
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajatDevX/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rajatDevX/Leetcode/tree/master/0136-single-number) |
@@ -250,11 +251,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
