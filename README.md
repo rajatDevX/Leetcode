@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajatDevX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajatDevX/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajatDevX/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
@@ -329,6 +331,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajatDevX/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
