@@ -7,6 +7,7 @@ public:
                 return false;
             }
             farthest=max(i+nums[i],farthest);
+            if (farthest >= nums.size() - 1) return true;
         }
         return  true;
         
