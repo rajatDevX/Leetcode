@@ -149,6 +149,7 @@
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajatDevX/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
@@ -278,6 +279,7 @@
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 ## Merge Sort
@@ -364,4 +366,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
