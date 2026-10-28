@@ -150,6 +150,7 @@
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/rajatDevX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajatDevX/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rajatDevX/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
