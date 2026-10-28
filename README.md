@@ -89,6 +89,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajatDevX/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
@@ -181,6 +183,7 @@
 | [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Graph Theory
 |  |
@@ -322,6 +325,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/rajatDevX/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/rajatDevX/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Newton's Method
 |  |
 | ------- |
@@ -370,4 +374,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
