@@ -140,6 +140,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajatDevX/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rajatDevX/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rajatDevX/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/rajatDevX/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajatDevX/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -343,6 +344,7 @@
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajatDevX/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/rajatDevX/Leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/rajatDevX/Leetcode/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 ## Recursion
 |  |
