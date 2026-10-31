@@ -1,20 +1,22 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int candidate=0;
-        int count=0;
-        for(int i=0;i<nums.size();i++){
+        int n=nums.size();
+        int count=1;
+        int maxCandidate=nums[0];
+        for(int i=1;i<n;i++){
             if(count==0){
-                candidate=nums[i];
+                maxCandidate=nums[i];
+                count=1;
             }
-            if(nums[i]==candidate){
+            else if(nums[i]==maxCandidate){
                 count++;
             }
             else{
                 count--;
             }
         }
-        return candidate;
+        return maxCandidate;
+        
     }
 };
-// by bayer moore method
