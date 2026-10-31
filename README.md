@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
@@ -81,6 +82,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 ## Design
@@ -128,6 +130,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajatDevX/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/rajatDevX/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
@@ -274,6 +277,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajatDevX/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rajatDevX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rajatDevX/Leetcode/tree/master/0189-rotate-array) |
@@ -387,4 +391,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajatDevX/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
