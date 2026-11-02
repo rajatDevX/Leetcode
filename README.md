@@ -183,6 +183,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajatDevX/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajatDevX/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajatDevX/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
@@ -202,6 +203,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajatDevX/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajatDevX/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajatDevX/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/rajatDevX/Leetcode/tree/master/0079-word-search) |
@@ -326,6 +328,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rajatDevX/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rajatDevX/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rajatDevX/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
