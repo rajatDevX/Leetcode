@@ -194,6 +194,7 @@
 | [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/rajatDevX/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Graph Theory
@@ -216,6 +217,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/rajatDevX/Leetcode/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Shortest Path
@@ -299,6 +301,7 @@
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/rajatDevX/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
