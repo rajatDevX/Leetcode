@@ -56,6 +56,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajatDevX/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajatDevX/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +136,7 @@
 | [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajatDevX/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajatDevX/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajatDevX/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rajatDevX/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rajatDevX/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rajatDevX/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/rajatDevX/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rajatDevX/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
