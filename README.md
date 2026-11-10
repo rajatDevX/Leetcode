@@ -161,6 +161,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rajatDevX/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/rajatDevX/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/rajatDevX/Leetcode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rajatDevX/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
@@ -182,6 +183,7 @@
 | [0130-surrounded-regions](https://github.com/rajatDevX/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajatDevX/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajatDevX/Leetcode/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 ## Hash Table
@@ -434,4 +436,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajatDevX/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
