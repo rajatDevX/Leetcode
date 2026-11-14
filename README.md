@@ -171,6 +171,7 @@
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
+| [0560-subarray-sum-equals-k](https://github.com/rajatDevX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
@@ -206,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/rajatDevX/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/rajatDevX/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [0560-subarray-sum-equals-k](https://github.com/rajatDevX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajatDevX/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rajatDevX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Monotonic Stack
 |  |
 | ------- |
