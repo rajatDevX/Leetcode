@@ -443,4 +443,8 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rajatDevX/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
