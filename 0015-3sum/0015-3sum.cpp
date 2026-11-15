@@ -2,12 +2,10 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>result;
         sort(nums.begin(),nums.end());
+        vector<vector<int>>result;
         for(int i=0;i<n-2;i++){
-            if(nums[i]>0){
-                break;
-            }
+            if(nums[i]>0) break;
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
             }
@@ -19,7 +17,8 @@ public:
                     left++;
                     right--;
                     while(left<right && nums[left]==nums[left-1]) left++;
-                    while(left<right && nums[right]==nums[right+1]) right--;
+                    while(left<right && nums[right]==nums[right+1])
+                    right--;
                 }
                 else if(sum<0){
                     left++;
@@ -27,9 +26,10 @@ public:
                 else{
                     right--;
                 }
-            
             }
+
         }
         return result;
+        
     }
 };
