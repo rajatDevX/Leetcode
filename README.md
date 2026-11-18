@@ -90,6 +90,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rajatDevX/Leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/rajatDevX/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -202,6 +203,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajatDevX/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/rajatDevX/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rajatDevX/Leetcode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/rajatDevX/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/rajatDevX/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rajatDevX/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/rajatDevX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajatDevX/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/rajatDevX/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/rajatDevX/Leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -475,4 +478,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajatDevX/Leetcode/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rajatDevX/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
