@@ -88,6 +88,7 @@
 | [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajatDevX/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [0242-valid-anagram](https://github.com/rajatDevX/Leetcode/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajatDevX/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Shortest Path
 |  |
 | ------- |
