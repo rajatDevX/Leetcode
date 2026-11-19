@@ -89,6 +89,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajatDevX/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rajatDevX/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0399-evaluate-division](https://github.com/rajatDevX/Leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/rajatDevX/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajatDevX/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rajatDevX/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Shortest Path
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/rajatDevX/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Database
 |  |
 | ------- |
