@@ -88,6 +88,7 @@
 | [0042-trapping-rain-water](https://github.com/rajatDevX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/rajatDevX/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/rajatDevX/Leetcode/tree/master/0224-basic-calculator) |
+| [0682-baseball-game](https://github.com/rajatDevX/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rajatDevX/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rajatDevX/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -177,6 +178,7 @@
 | [0427-construct-quad-tree](https://github.com/rajatDevX/Leetcode/tree/master/0427-construct-quad-tree) |
 | [0502-ipo](https://github.com/rajatDevX/Leetcode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/rajatDevX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/rajatDevX/Leetcode/tree/master/0682-baseball-game) |
 | [0909-snakes-and-ladders](https://github.com/rajatDevX/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/rajatDevX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/rajatDevX/Leetcode/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/rajatDevX/Leetcode/tree/master/0682-baseball-game) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/rajatDevX/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Database
 |  |
